@@ -36,3 +36,13 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+	Pros:
+	With automatic merging we don't have to worry about changing the code from
+	one branch to another
+	With manual merging we can easily resolve merge conflict if it arises on merging
+
+	Cons:
+	With automatic merging we can run into merge conflict
+	With manual merging we have manage codes from both the braches manually even though
+	there is no conflict
