@@ -8,3 +8,10 @@ stay up-to-date with your remote repository?
 	I might not be ready to integrate my local changes with the remote. Updating my local
 	repo with the remote might cause some conflict while I am working on a new feature,
 	then I have to divert from my priority and fix the conflict.
+
+Describe the differences between forks, clones, and branches. When would you use one instead
+of another?
+
+	Clone is a copy of a repository which can be at remote or a local also, fork is similar
+	to clone only difference is that the in fork, cloned repository is saved at github.
+	Branch is a collection of commits, and helps to organize and manage the commits.
