@@ -27,3 +27,11 @@ be harder?
 	To collaborate with others I have to send files to others, keeping track of changes or
 	reverting back to a previous state would be difficult. Only easy think I can think of 
 	is that I don't have to learn git
+
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+	
+	Whenever I am implementing a new feature or fixing a bug while I am collaborating
+	with others I would use a new branch. It helps to implement the above things without
+	worrying about breaking the current working version and it also helps in reviewing the
+	code of other collaborators before merging it into the master.
