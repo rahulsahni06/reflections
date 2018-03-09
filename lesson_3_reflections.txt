@@ -15,3 +15,8 @@ of another?
 	Clone is a copy of a repository which can be at remote or a local also, fork is similar
 	to clone only difference is that the in fork, cloned repository is saved at github.
 	Branch is a collection of commits, and helps to organize and manage the commits.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	You can work offline, we can also compare it with the lastest state of remote on github
+	and compare the changes.
